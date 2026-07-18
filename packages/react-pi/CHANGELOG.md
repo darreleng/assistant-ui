@@ -1,5 +1,14 @@
 # @assistant-ui/react-pi
 
+## 0.0.8
+
+### Patch Changes
+
+- [#5010](https://github.com/assistant-ui/assistant-ui/pull/5010) [`a120cc2`](https://github.com/assistant-ui/assistant-ui/commit/a120cc22ce43818a9dac39b00cec38af4762a415) - fix: validate event stream response content types ([@Kinfe123](https://github.com/Kinfe123))
+
+- Updated dependencies [[`ca80153`](https://github.com/assistant-ui/assistant-ui/commit/ca801537e02bbab09532d0f505992778d282dddb)]:
+  - @assistant-ui/core@0.2.22
+
 ## 0.0.7
 
 ### Patch Changes

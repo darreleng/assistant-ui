@@ -1,5 +1,11 @@
 # assistant-stream
 
+## 0.3.27
+
+### Patch Changes
+
+- [#4988](https://github.com/assistant-ui/assistant-ui/pull/4988) [`9a343db`](https://github.com/assistant-ui/assistant-ui/commit/9a343db871ceab7e574bfcec9ab22af0ddaf1841) - fix: guard object stream settlement after cancellation ([@Kinfe123](https://github.com/Kinfe123))
+
 ## 0.3.26
 
 ### Patch Changes

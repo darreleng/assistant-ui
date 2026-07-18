@@ -1,5 +1,14 @@
 # @assistant-ui/core
 
+## 0.2.22
+
+### Patch Changes
+
+- [#4981](https://github.com/assistant-ui/assistant-ui/pull/4981) [`ca80153`](https://github.com/assistant-ui/assistant-ui/commit/ca801537e02bbab09532d0f505992778d282dddb) - fix: handle failed composer append tasks ([@Kinfe123](https://github.com/Kinfe123))
+
+- Updated dependencies [[`9a343db`](https://github.com/assistant-ui/assistant-ui/commit/9a343db871ceab7e574bfcec9ab22af0ddaf1841)]:
+  - assistant-stream@0.3.27
+
 ## 0.2.21
 
 ### Patch Changes

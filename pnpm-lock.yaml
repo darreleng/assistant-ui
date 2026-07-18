@@ -3496,7 +3496,7 @@ importers:
   packages/core:
     dependencies:
       assistant-stream:
-        specifier: ^0.3.26
+        specifier: ^0.3.27
         version: link:../assistant-stream
       nanoid:
         specifier: ^6.0.0
@@ -4005,7 +4005,7 @@ importers:
   packages/react-google-adk:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.21
+        specifier: ^0.2.22
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.20
@@ -4017,7 +4017,7 @@ importers:
         specifier: '*'
         version: link:../cloud
       assistant-stream:
-        specifier: ^0.3.26
+        specifier: ^0.3.27
         version: link:../assistant-stream
       uuid:
         specifier: ^14.0.1
@@ -4119,7 +4119,7 @@ importers:
   packages/react-ink-markdown:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.21
+        specifier: ^0.2.22
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.20
@@ -4476,7 +4476,7 @@ importers:
   packages/react-pi:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.21
+        specifier: ^0.2.22
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.20
